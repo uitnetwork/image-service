@@ -1,0 +1,13 @@
+spring:
+  http:
+    multipart:
+      max-file-size: 10MB
+logging:
+  level:
+    com.uitnetwork: DEBUG
+
+storage:
+  google:
+    publicLink: https://storage.googleapis.com
+    bucketName: image-services
+

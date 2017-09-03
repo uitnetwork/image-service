@@ -1,4 +1,4 @@
-package com.uitnetwork.imageservice
+package com.uitnetwork.image
 
 import org.junit.Test
 import org.junit.runner.RunWith
