@@ -11,7 +11,7 @@ buildscript {
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}")
         classpath("org.jetbrains.kotlin:kotlin-allopen:${kotlinVersion}")
         classpath("org.jetbrains.kotlin:kotlin-noarg:${kotlinVersion}")
-        classpath("com.google.cloud.tools:appengine-gradle-plugin:1.3.0")
+        classpath("com.google.cloud.tools:appengine-gradle-plugin:1.3.2")
     }
 }
 
